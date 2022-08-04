@@ -1,5 +1,4 @@
-# #WhyDidTheyStay: An NLP-driven approach to analyzing the factors
-that affect domestic violence victims
+# #WhyDidTheyStay: An NLP-driven approach to analyzing the factors that affect domestic violence victims
 
 Abstract: This paper uses domain specific data extracted from publicly available posts on social media platforms, Reddit and Twitter, to analyze and provide insight into the various psychosocioeconomic
 (Schmidt and Willis, 2007) factors that affect domestic violence survivors and contribute to their
